@@ -1,0 +1,16 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            DIY Blog
+tagline:          'Hobby woodworking'
+description:      'Hobby woodworking with a dash of electronics.'
+url:              https://blog.sirotkin.com.ua
+
+author:
+  name:           'Konstantin Sirotkin'
+  url:            https://sirotkin.com.ua/
+
+paginate:         5
+
+plugins: [jekyll-paginate]
