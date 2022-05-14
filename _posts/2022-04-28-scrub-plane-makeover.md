@@ -11,9 +11,9 @@ I've always meant to get my hands on a good scrub plane. Sadly, Stanley #40 and 
 
 I actually have two soviet-made scrub planes, a fairly modern "new old stock" unit from the 90s and an older one from probably the 70s.
 
-!["Scrub plane from the 90s"](/assets/images/2022-03-28-scrub-plane-makeover/scrub-plane-1.jpg)
+!["Scrub plane from the 90s"](/assets/images/2022-04-28-scrub-plane-makeover/scrub-plane-1.jpg)
 
-!["Scrub plane from the 70s"](/assets/images/2022-03-28-scrub-plane-makeover/scrub-plane-2.jpg)
+!["Scrub plane from the 70s"](/assets/images/2022-04-28-scrub-plane-makeover/scrub-plane-2.jpg)
 
 The focus of this article is the second plane, which is older and heavier, and has bakelite handles. Its iron is also significantly better.
 
