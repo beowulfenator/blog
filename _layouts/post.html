@@ -8,6 +8,12 @@ layout: default
   {{ content }}
 </div>
 
+{% if page. commentsIssue%}
+  <div class="comments-container">
+    <div id="comments"></div>
+  </div>
+{% endif %}
+
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
@@ -23,3 +29,15 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+{% if page. commentsIssue%}
+  <script>
+    Octomments({
+      github: {
+        owner: 'beowulfenator',
+        repo: 'blog',
+      },
+      issueNumber: {{ page.commentsIssue }},
+      renderer: [OctommentsRenderer, '#comments']
+    }).init();
+  </script>
+{% endif %}

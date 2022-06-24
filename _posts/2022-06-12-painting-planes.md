@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Painting Planes
+commentsIssue: 6
 ---
 
 When I get my hands on old tools, I generally try to repaint them. I like the consistent look. There's nothing unusual or fancy about painting your hand planes black, but I like how matte black contrasts with wood shavings and polished metal. Besides, what better way to learn the tools than to fully disassemble them and then put them back together?

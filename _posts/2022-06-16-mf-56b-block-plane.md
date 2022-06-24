@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Millers Falls 56B Low-Angle Block Plane
+commentsIssue: 7
 ---
 
 No hand plane hoard is complete without a low-angle block plane. I already have a traditional high-angle Stanley #220, but this Millers Falls with its adjustable mouth and bevel-up design was too beautiful to just let it go. It's a peculiar piece with some interesting modifications by the previous owner.
