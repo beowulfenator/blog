@@ -45,4 +45,6 @@ I wonder if replacing the lever altogether is a good idea. Clearly, there are co
 
 The previous owner scribbled what looks like their initials onto the side of the plane. I'll probably sand the writing off eventually. Maybe when I decide to shim the depth adjustment mechanism.
 
+!["Restored plane"](/assets/images/2022-06-16-mf-56b-block-plane/restored-assembled-2.jpg)
+
 Despite its irregularities, the plane turned out quite well. There is potential for improvement, as the depth adjustment mechanism still needs some tuning. And the inscription and the non-standard blade give it character.
