@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Scrub Plane Makeover (Planning)
-commentsIssue: 5
+comments_issue: 5
+title_image: "/assets/images/2022-06-08-scrub-plane-plan/scrub-plane-2.jpg"
 ---
 
 I've always meant to get my hands on a good scrub plane. Sadly, Stanley #40 and the like have high collectible value, and therefore cost an arm and a leg on eBay. There's always the option of repurposing a Stanley #78 (and I might do that in the future), but for now, I've bought some rather cheap Soviet hardware that looks promising.

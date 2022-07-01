@@ -8,7 +8,7 @@ layout: default
   {{ content }}
 </div>
 
-{% if page. commentsIssue%}
+{% if page. comments_issue%}
   <div class="comments-container">
     <div id="comments"></div>
   </div>
@@ -29,14 +29,14 @@ layout: default
     {% endfor %}
   </ul>
 </div>
-{% if page. commentsIssue%}
+{% if page. comments_issue%}
   <script>
     Octomments({
       github: {
         owner: 'beowulfenator',
         repo: 'blog',
       },
-      issueNumber: {{ page.commentsIssue }},
+      issueNumber: {{ page.comments_issue }},
       renderer: [OctommentsRenderer, '#comments']
     }).init();
   </script>
