@@ -28,7 +28,7 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
   {% if page.is_post %}
-    <link rel="stylesheet" href="https://unpkg.com/octomments/build/ocs-ui.min.css" />
-    <script src="https://unpkg.com/octomments/build/ocs.min.js"></script>
+    <link rel="stylesheet" href="{{ 'assets/css/ocs-ui.min.css' | relative_url }}" />
+    <script src="{{ 'assets/js/ocs.min.js' | relative_url }}"></script>
   {% endif %}
 </head>
