@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wannabe Stanley #40 body"
+title: "Wannabe Stanley #40 Body"
 comments_issue: 10
 title_image: "/assets/images/2022-07-21-scrub-plane-body/scrub-plane-1.jpg"
 ---
@@ -11,6 +11,7 @@ I am slowly working towards refurbishing my "Wannabe Stanley #40" plane. There a
 
 As I already mentioned before, the casting was quite gnarly. Cast iron is easy to file, so I was able to make the rims nice and clean. I filed down quite a lot at the heel of the plane. Fortunately, I was not working to any exact dimension, so I filed it until the heel looked good with flowing curves. It is now narrower than before, and not perfectly symmetrical, but that is not an issue. I am still to make the tote, and the tote can be made to fit the body.
 
+!["Heel template"](/assets/images/2022-07-21-scrub-plane-body/heel-template.jpg)
 !["Filing the heel"](/assets/images/2022-07-21-scrub-plane-body/filing-the-heel.jpg)
 
 The plane is designed with a screw cap, and for it to work there is a rod that the cap pivots around. The original rod was rusty and bent, so I decided to replace it. While the rod is screwed in and is potentially removable, that is rarely necessary. For this reason, I just took a long bolt, screwed it in all the way, and then cut off its ends. I proceeded to file and then sand the bolt flush with the cheeks of the plane. Now the only way to take out the rod would be to grab it with pliers and rotate it, but I'll never need to do that anyway.
