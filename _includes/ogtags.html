@@ -1,0 +1,7 @@
+<meta content="{{ site.title }}" property="og:site_name">
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+{% endif %}
+{% if page.title_image %}
+  <meta content="{{ page.title_image | absolute_url }}" property="og:image">
+{% endif %}
