@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Sanding Stick"
-comments_issue: 14
 title_image: "/assets/images/2022-08-15-sanding-stick/sanding-stick.jpg"
 ---
 

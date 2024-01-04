@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Wannabe Stanley #40 Body"
-comments_issue: 10
 title_image: "/assets/images/2022-07-21-scrub-plane-body/scrub-plane-1.jpg"
 ---
 

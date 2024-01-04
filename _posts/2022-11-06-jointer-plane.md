@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Jointer Plane Review"
-comments_issue: 16
 title_image: "/assets/images/2022-11-06-jointer-plane/jointer-plane.jpg"
 ---
 

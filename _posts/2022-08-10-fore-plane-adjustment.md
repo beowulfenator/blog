@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Fore Plane Adjustment Mechanism"
-comments_issue: 13
 title_image: "/assets/images/2022-08-10-fore-plane-adjustment/assembled.jpg"
 ---
 

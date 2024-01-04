@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A Box For Chisels"
-comments_issue: 15
 title_image: "/assets/images/2022-10-21-chisel-box/chisel-box.jpg"
 ---
 

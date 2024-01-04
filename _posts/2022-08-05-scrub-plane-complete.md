@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Wannabe Stanley #40 Complete!"
-comments_issue: 12
 title_image: "/assets/images/2022-08-05-scrub-plane-complete/restored-5.jpg"
 ---
 

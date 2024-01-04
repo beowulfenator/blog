@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Scrub Plane Makeover (Planning)
-comments_issue: 5
 title_image: "/assets/images/2022-06-08-scrub-plane-plan/scrub-plane-2.jpg"
 ---
 

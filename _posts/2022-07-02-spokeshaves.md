@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Stanley #151 Spokeshaves"
-comments_issue: 9
 title_image: "/assets/images/2022-07-02-spokeshaves/stanley-151-spokeshave-1.jpg"
 ---
 

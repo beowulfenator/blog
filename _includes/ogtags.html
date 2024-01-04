@@ -2,6 +2,23 @@
 {% if page.title %}
   <meta content="{{ page.title }}" property="og:title">
 {% endif %}
-{% if page.title_image %}
-  <meta content="{{ page.title_image | absolute_url }}" property="og:image">
+{% if page.is_post %}
+  <meta property="og:type" content="article" />
+  {% if page.title_image %}
+    <meta content="{{ page.title_image | absolute_url }}" property="og:image">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="{{ page.title_image | absolute_url }}" />
+  {% endif %}
+  {% if page.excerpt %}
+    <meta property="og:description" content="{{ page.excerpt | strip_html | strip }}" />
+  {% endif %}
+{% else %}
+  <meta property="og:type" content="website" />
+  <meta content="{{ '/assets/images/workshoppe.png' | absolute_url }}" property="og:image">
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="{{ '/assets/images/workshoppe.png' | absolute_url }}" />
+  <meta property="og:description" content="{{ site.description }}" />
+{% endif %}
+{% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url" page>
 {% endif %}

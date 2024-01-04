@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Fitting Totes to Planes"
-comments_issue: 9
 title_image: "/assets/images/2022-07-09-fitting-totes/fore-plane-handle.jpg"
 ---
 

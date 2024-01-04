@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Millers Falls 56B Low-Angle Block Plane
-comments_issue: 7
 title_image: "/assets/images/2022-06-16-mf-56b-block-plane/restored-assembled-2.jpg"
 ---
 

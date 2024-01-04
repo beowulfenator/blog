@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Painting Planes
-comments_issue: 6
 title_image: "/assets/images/2022-06-12-painting-planes/painted.jpg"
 ---
 

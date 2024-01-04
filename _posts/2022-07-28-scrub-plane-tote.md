@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Wannabe Stanley #40 Tote"
-comments_issue: 11
 title_image: "/assets/images/2022-07-28-scrub-plane-tote/tote-fitted.jpg"
 ---
 
