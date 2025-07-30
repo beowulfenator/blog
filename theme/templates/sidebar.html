@@ -1,0 +1,33 @@
+<div class="sidebar">
+    <div class="container sidebar-sticky">
+        <div class="sidebar-about">
+            <h1>
+                <a href="{{ SITEURL }}/">
+                    <img class="profile-picture" src="{{ SITEURL }}/images/{{ PROFILE_IMAGE }}">
+                    {{ SITENAME }}
+                </a>
+            </h1>
+            <p class="lead">{{ BIO }} </p>
+            <p></p>
+        </div>
+        {% if MENUITEMS or DISPLAY_PAGES_ON_MENU %}
+            <nav class="sidebar-nav">
+                <a class="sidebar-nav-item" href="{{ SITEURL }}/">Home</a>
+                {% if MENUITEMS %}
+                    {% for title, url in MENUITEMS %}
+                        <a class="sidebar-nav-item" href="{{ url }}">{{ title }}</a>
+                    {% endfor %}
+                {% endif %}
+                {% if DISPLAY_PAGES_ON_MENU %}
+                    {% for p in pages %}
+                        <a class="sidebar-nav-item" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+                    {% endfor %}
+                {% endif %}
+            </nav>
+        {% endif %}
+        <p>&copy; 2025. All rights reserved.</p>
+        {% if FOOTER_TEXT %}
+            <p class="sidebar-footer">{{ FOOTER_TEXT }}</p>
+        {% endif %}
+    </div>
+</div>
