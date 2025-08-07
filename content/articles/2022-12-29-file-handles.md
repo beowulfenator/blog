@@ -11,7 +11,7 @@ It all began with the need to rip and resaw boards, really. With no good options
 
 {{ article_image("/images/2022-12-29-file-handles/materials.jpg", "Handles and files") }}
 
-Making handles without a lathe is possible, but not fun at all (see [scrub plane makeover](/2022/08/05/scrub-plane-complete/)), but I happen to have some that I've acquired over time on various occasions. They all seem to be turned from beech, which is the go-to material for handles. Beechwood handles are not going to win beauty contests, but they make up for it in hardness and durability.
+Making handles without a lathe is possible, but not fun at all (see [scrub plane makeover](/articles/2022-08-05-scrub-plane-complete.html)), but I happen to have some that I've acquired over time on various occasions. They all seem to be turned from beech, which is the go-to material for handles. Beechwood handles are not going to win beauty contests, but they make up for it in hardness and durability.
 
 {{ article_image("/images/2022-12-29-file-handles/files.jpg", "Fitted handles") }}
 

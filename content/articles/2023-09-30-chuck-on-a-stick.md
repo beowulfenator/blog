@@ -21,4 +21,4 @@ This project marked one of my initial attempts on my new lathe and served as a l
 
 If I could redo this project, I would certainly make the handle longer. Unfortunately, I had initially cut this blank with a plane knob in mind. I utilized its full length, minus the parts that were used for securing the blank in the lathe, and yet it turned out to be too short.
 
-One aspect I particularly appreciate about this project is the finish. I first coated the handle with a penetrating oil-varnish blend and then applied several coats of thinned-down varnish, the same type I used in the [router plane build](/2023/03/29/router-build-2/). The resulting satin finish is beautiful and durable.
+One aspect I particularly appreciate about this project is the finish. I first coated the handle with a penetrating oil-varnish blend and then applied several coats of thinned-down varnish, the same type I used in the [router plane build](/articles/2023-03-29-router-build-2.html). The resulting satin finish is beautiful and durable.
