@@ -3,12 +3,14 @@ title: Winding Sticks
 title_image: /images/2024-10-21-winding-sticks/winding-sticks-1.jpg
 ---
 
+{% from 'img.html' import article_image %}
+
 Making a set of winding sticks is a rite of passage for aspiring woodworkers. The process is fairly simple, and in the end, you create a useful tool. The sticks can be made with varying degrees of fanciness, and mine are quite plain. I will take the opportunity to focus on the finer details and reflect on the lessons learned, despite the apparent simplicity of this project.
 
 <!--more-->
 
-!["Winding sticks flat"](/images/2024-10-21-winding-sticks/winding-sticks-1.jpg)
-!["Winding sticks upright"](/images/2024-10-21-winding-sticks/winding-sticks-2.jpg)
+{{ article_image("/images/2024-10-21-winding-sticks/winding-sticks-1.jpg", "Winding sticks flat") }}
+{{ article_image("/images/2024-10-21-winding-sticks/winding-sticks-2.jpg", "Winding sticks upright") }}
 
 My winding sticks are made of maple. This wood is almost white with an unobtrusive grain pattern, relatively hard, resistant to chipping, and planes nicely. The accents are made of walnut, mainly for contrast. Against the maple, the walnut stands out really well. Without access to exotic woods like ebony, these two woods offer the best contrast.
 
@@ -28,7 +30,7 @@ One thing I might try in the future is holding the strips in a vice while planin
 
 ### Making the walnut inlay
 
-!["Walnut inlay"](/images/2024-10-21-winding-sticks/inlay.jpg)
+{{ article_image("/images/2024-10-21-winding-sticks/inlay.jpg", "Walnut inlay") }}
 
 If I'm proud of any one part of the project, it's the inlay. Making the walnut piece was trivial — just planing it flat and trimming it square on a shooting board. The corresponding notch in the maple, however, was much more challenging. I did the rough cut with a saw and even tried planing the bottom face with a chisel plane but without much success. Then I realized I could place the board on a flat surface, use 1-2-3 blocks as spacers or supports, and flatten the bottom face with a router plane.
 
@@ -39,7 +41,7 @@ A router plane is the perfect tool for creating a flat bottom in a recess, but i
 
 ### Adding walnut plugs
 
-!["Walnut plugs"](/images/2024-10-21-winding-sticks/plugs.jpg)
+{{ article_image("/images/2024-10-21-winding-sticks/plugs.jpg", "Walnut plugs") }}
 
 Let's just say these plugs were another learning opportunity. The plugs themselves weren't hard to make. I took a roughly cut walnut stick and ran it through an M10 tapping die, then sanded it down a bit. Thus were made two short and slightly oversized 8 mm dowels. But it was the drilling that got me.
 
@@ -50,7 +52,7 @@ The second plug is my triumph: hole drilled out with a proper woodworking drill 
 
 ### The magnets
 
-!["Magnets"](/images/2024-10-21-winding-sticks/magnets.jpg)
+{{ article_image("/images/2024-10-21-winding-sticks/magnets.jpg", "Magnets") }}
 
 This project made me see neodymium magnets in a new light. First, they are not as strong as I thought they would be. I chose 10 mm magnetic discs because the largest brad point bit I had was 10 mm. The magnets hold the sticks together, but just barely — and that's with two pairs of magnets.
 

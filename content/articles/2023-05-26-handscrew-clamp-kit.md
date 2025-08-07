@@ -3,11 +3,13 @@ title: Bulding Handscrew Clamps
 title_image: /images/2023-05-26-handscrew-clamp-kit/clamp-complete.jpg
 ---
 
+{% from 'img.html' import article_image %}
+
 I built this handscrew clamp from a kit that I recently purchased. The kit included all the metal hardware and birch handles, requiring only the construction of the clamp bodies from wood.
 
 <!--more-->
 
-!["Materials"](/images/2023-05-26-handscrew-clamp-kit/materials.jpg)
+{{ article_image("/images/2023-05-26-handscrew-clamp-kit/materials.jpg", "Materials") }}
 
 Initially, I intended to build the clamps using maple, but my wood supplier didn't have thick maple boards. I didn't want to glue together thinner stock, so I opted for this lovely, straight-grained elm instead.
 
@@ -17,11 +19,11 @@ The plans called for straight cylindrical holes for the barrel nuts, as well as 
 
 As for the v-shaped slots, I initially attempted to make them with a drill, but that method didn't work out. I struggled to drill precise angled holes using a handheld drill. In the end, I successfully chopped these slots out with a mortising chisel.
 
-!["Hole layout"](/images/2023-05-26-handscrew-clamp-kit/holes.jpg)
+{{ article_image("/images/2023-05-26-handscrew-clamp-kit/holes.jpg", "Hole layout") }}
 
 The plans recommended an oil or wiping varnish finish. I sanded the pieces up to 240 grit and applied my usual oil-varnish blend finish, which turned out quite well.
 
-!["Oil finish"](/images/2023-05-26-handscrew-clamp-kit/oil-finish.jpg)
+{{ article_image("/images/2023-05-26-handscrew-clamp-kit/oil-finish.jpg", "Oil finish") }}
 
 Assembling the clamp proved to be tricky. The handles could only be attached after the rods were threaded into the barrel nuts. This meant that once the handles were attached, the clamp couldn't be disassembled. I decided to permanently attach the handles and deviated from the plans that recommended epoxy, opting for polyurethane glue instead.
 
@@ -31,7 +33,7 @@ The kit also included rivets, which I used. Although the clamps probably would h
 
 Riveting didn't go as smoothly as I had hoped. Drilling without a drill press resulted in slightly oversized holes, causing the rivets to fit loosely. Peening the end of the rivets could have been better too. I need more practice in this area, and I also need a sturdy anvil. For now, I'll steer clear of this operation.
 
-!["The clamp is complete"](/images/2023-05-26-handscrew-clamp-kit/clamp-complete.jpg)
+{{ article_image("/images/2023-05-26-handscrew-clamp-kit/clamp-complete.jpg", "The clamp is complete") }}
 
 What could have gone better? After all, I have another kit and another clamp to make.
 

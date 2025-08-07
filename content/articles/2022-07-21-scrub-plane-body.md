@@ -3,14 +3,16 @@ title: Wannabe Stanley #40 Body
 title_image: /images/2022-07-21-scrub-plane-body/scrub-plane-1.jpg
 ---
 
+{% from 'img.html' import article_image %}
+
 I am slowly working towards refurbishing my "Wannabe Stanley #40" plane. There are some definitive improvements to the body: it's cleaned up, painted, and a part is replaced. Some things turned out well, some not so well, but I'm calling the body done.
 
 <!--more-->
 
 As I already mentioned before, the casting was quite gnarly. Cast iron is easy to file, so I was able to make the rims nice and clean. I filed down quite a lot at the heel of the plane. Fortunately, I was not working to any exact dimension, so I filed it until the heel looked good with flowing curves. It is now narrower than before, and not perfectly symmetrical, but that is not an issue. I am still to make the tote, and the tote can be made to fit the body.
 
-!["Heel template"](/images/2022-07-21-scrub-plane-body/heel-template.jpg)
-!["Filing the heel"](/images/2022-07-21-scrub-plane-body/filing-the-heel.jpg)
+{{ article_image("/images/2022-07-21-scrub-plane-body/heel-template.jpg", "Heel template") }}
+{{ article_image("/images/2022-07-21-scrub-plane-body/filing-the-heel.jpg", "Filing the heel") }}
 
 The plane is designed with a screw cap, and for it to work there is a rod that the cap pivots around. The original rod was rusty and bent, so I decided to replace it. While the rod is screwed in and is potentially removable, that is rarely necessary. For this reason, I just took a long bolt, screwed it in all the way, and then cut off its ends. I proceeded to file and then sand the bolt flush with the cheeks of the plane. Now the only way to take out the rod would be to grab it with pliers and rotate it, but I'll never need to do that anyway.
 
@@ -20,9 +22,9 @@ Fortunately, this plane is for rough work only, so there's really no need to lap
 
 The paint job is straightforward: masking the cheeks and the rims, priming, and painting. Excess paint is sanded off from the rims. I've filed the bed where the blade sits, just to make sure it is straight. As straight as the file is, anyway.
 
-!["Scrub plane body after cleanup and paint job"](/images/2022-07-21-scrub-plane-body/scrub-plane-1.jpg)
+{{ article_image("/images/2022-07-21-scrub-plane-body/scrub-plane-1.jpg", "Scrub plane body after cleanup and paint job") }}
 
-!["Scrub plane body after cleanup and paint job"](/images/2022-07-21-scrub-plane-body/scrub-plane-2.jpg)
+{{ article_image("/images/2022-07-21-scrub-plane-body/scrub-plane-2.jpg", "Scrub plane body after cleanup and paint job") }}
 
 I was considering filling the hole in the casting that the original owner had drilled out. I had the option of filling it with a piece of iron and peening it on both sides, or using some epoxy filler, or even cutting off the part of the plane with the hole, making it slightly shorter in the process. In the end, I decided to just leave the hole be. Once this project is done, I'll see if I even want to have a scrub plane. If I find it useful, I just might get a similar plane with a better body casting to restore.
 

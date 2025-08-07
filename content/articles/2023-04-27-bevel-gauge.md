@@ -3,11 +3,13 @@ title: Bevel Gauge
 title_image: /images/2023-04-27-bevel-gauge/bevel-gauge-done.jpg
 ---
 
+{% from 'img.html' import article_image %}
+
 The finished bevel gauge is both beautiful and functional, boasting a polished brass and black walnut look that can't be beat. The build process was relatively simple, with only a few minor snags along the way, but more on that below.
 
 <!--more-->
 
-!["Materials"](/images/2023-04-27-bevel-gauge/materials.jpg)
+{{ article_image("/images/2023-04-27-bevel-gauge/materials.jpg", "Materials") }}
 
 I chose to purchase this kit for convenience, as it included all of the necessary brass parts and hardware. However, the blade could be made from an old saw and the brass parts could be cut from sheet brass of the correct thickness. The carriage bolt and the knurled nut are commonly available too. The only challenging aspect would have been filing out the long slot in the blade if I had decided to make it from scratch.
 
@@ -17,13 +19,13 @@ The kit did not include any wood, so without access to rosewood or ebony or othe
 
 With a little bit of research, I've discovered two designs of bevel gauges. One design was based on a thin saw kerf cut in a solid piece of wood, and the other used a brass shim laminated between two pieces of wood. I chose to use the laminated construction method since I was not confident in my ability to cut a long straight saw kerf. I used brass of the same thickness as the blade for the shim.
 
-!["Shimming the parts"](/images/2023-04-27-bevel-gauge/shim.jpg)
+{{ article_image("/images/2023-04-27-bevel-gauge/shim.jpg", "Shimming the parts") }}
 
 After planing the walnut strips to a reasonable thickness, I made recesses for the brass parts and glued everything together in stages using polyurethane glue. I found polyurethane glue to be easy to work with and effective at filling voids, and it cured fully in only four hours. It was certainly much easier to work with than epoxy which was the one other alternative I had been considering.
 
-!["Front side - knob"](/images/2023-04-27-bevel-gauge/knob.jpg)
+{{ article_image("/images/2023-04-27-bevel-gauge/knob.jpg", "Front side - knob") }}
 
-!["Rear side"](/images/2023-04-27-bevel-gauge/rear.jpg)
+{{ article_image("/images/2023-04-27-bevel-gauge/rear.jpg", "Rear side") }}
 
 Once the glueup was complete, I sanded all surfaces flush. As much as I'd like planing to be the finishing step (at least for the bragging rights, if not for any practical reason), I had to use sanding because of the inlaid brass elements.
 
@@ -33,7 +35,7 @@ The sanding process was straightforward. I started with a coarse grit of 80 and 
 
 Then I applied two coats of oil-varnish blend with a day between coats. Now finished, the bevel gauge looks beautiful, although it smells like varnish for the time being. Over the next month or two, the varnish smell will dissipate and the natural walnut smell will return. At least that happened to my plane handles which now have the wonderful and unmistakable smell of rosewood.
 
-!["The bevel gauge is done"](/images/2023-04-27-bevel-gauge/bevel-gauge-done.jpg)
+{{ article_image("/images/2023-04-27-bevel-gauge/bevel-gauge-done.jpg", "The bevel gauge is done") }}
 
 So far I have not yet decided what to do about the blade, I might eventually sand off the factory blue finish and polish it until it shines. But for now, the blue finish stays.
 

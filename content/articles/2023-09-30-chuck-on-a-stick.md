@@ -3,15 +3,17 @@ title: Chuck-on-a-stick
 title_image: /images/2023-09-30-chuck-on-a-stick/assembled.jpg
 ---
 
+{% from 'img.html' import article_image %}
+
 I typically use my cordless drill for drilling small holes and deburring them. However, there are times when I prefer to hold the drill bit in my hand, especially when I need to remove a burr or delicately clean out a hole. This simple tool is the solution to this problem.
 
 <!--more-->
 
-!["Disassembled piece"](/images/2023-09-30-chuck-on-a-stick/parts.jpg)
+{{ article_image("/images/2023-09-30-chuck-on-a-stick/parts.jpg", "Disassembled piece") }}
 
 The concept is uncomplicated: a standard drill chuck is attached to a handle. In my case, it's a keyless chuck designed for use with impact drills. The chuck came with an SDS adapter, which I've permanently affixed to the handle. The chuck itself can now be mounted onto the handle, and a small left-hand screw inside the chuck securely holds it in place.
 
-!["Assembled piece"](/images/2023-09-30-chuck-on-a-stick/assembled.jpg)
+{{ article_image("/images/2023-09-30-chuck-on-a-stick/assembled.jpg", "Assembled piece") }}
 
 I've prepared some walnut blanks for my turning projects. Among them, I have set aside several blanks that I consider the best, as they consist entirely of heartwood without any sapwood. This particular blank could be seen as training material because it's contains both heartwood and sapwood. Nevertheless, the contrast between the heartwood and sapwood in this board is not particularly pronounced, so I don't feel bad about using it for a project.
 

@@ -3,6 +3,8 @@ title: Router Plane Build (Part 2)
 title_image: /images/2023-03-29-router-build-2/assembled.jpg
 ---
 
+{% from 'img.html' import article_image %}
+
 It works. Still a work in progress, but it cuts and it adjusts. Corners were cut, lessons were learned, but more on that below.
 
 <!--more-->
@@ -15,11 +17,11 @@ The recommended time between coats for this varnish is six hours, but because of
 
 According to the datasheet, the varnish reaches its full hardness after four weeks. When I tested the plane on some rough wood, it left some dents in the sole. The wood itself isn't too hard, so it's unclear whether to blame the varnish or the wood. I suppose we'll find out in a month. Nevertheless, the sole can be sanded or planed flat and clean if necessary. I'm not even sure I want finish on it.
 
-!["Minimum viable product"](/images/2023-03-29-router-build-2/assembled.jpg)
+{{ article_image("/images/2023-03-29-router-build-2/assembled.jpg", "Minimum viable product") }}
 
 To allow for adjustments, I needed to make a notch in the blade. I spent almost two hours grinding it away, but it wasn't enough. I decided to try annealing the steel and then filing it down, which worked perfectly on the first attempt. Using a propane torch, I heated the tip of the cutter until it turned red (no idea what kind of red it was - I am no metallurgist) and then let it cool. While it would have been better to slow the process down by sticking it into hot sand, the metal became soft enough to file without it. It still felt harder than typical mild steel, so I chose not to harden it after filing the notch.
 
-!["Adjustment mechanism"](/images/2023-03-29-router-build-2/adjustment.jpg)
+{{ article_image("/images/2023-03-29-router-build-2/adjustment.jpg", "Adjustment mechanism") }}
 
 Even with the spring-loaded clamp, it is difficult to achieve the ideal pressure for the blade, which must be adjustable but still hold firmly. My current approach is to loosen one of the screws, adjust the blade, and then tighten it back. The adjustment is surprisingly fine despite the standard pitch on the M6 bolt. Unfortunately, the threaded hole on the adjustment nut is not perfectly square to the flange, but I have no lathe to fabricate a better-fitting part.
 

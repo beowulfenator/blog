@@ -3,15 +3,17 @@ title: Fitting Handles To Files
 title_image: /images/2022-12-29-file-handles/files.jpg
 ---
 
+{% from 'img.html' import article_image %}
+
 It all began with the need to rip and resaw boards, really. With no good options available, I am reduced to making my own ripping saw, or at least re-filing the teeth on a vintage crosscut saw. Fortunately, new old stock triangular files are abundant, because nobody wants them. But before I can use them, they need handles.
 
 <!--more-->
 
-!["Handles and files"](/images/2022-12-29-file-handles/materials.jpg)
+{{ article_image("/images/2022-12-29-file-handles/materials.jpg", "Handles and files") }}
 
 Making handles without a lathe is possible, but not fun at all (see [scrub plane makeover](/2022/08/05/scrub-plane-complete/)), but I happen to have some that I've acquired over time on various occasions. They all seem to be turned from beech, which is the go-to material for handles. Beechwood handles are not going to win beauty contests, but they make up for it in hardness and durability.
 
-!["Fitted handles"](/images/2022-12-29-file-handles/files.jpg)
+{{ article_image("/images/2022-12-29-file-handles/files.jpg", "Fitted handles") }}
 
 The ferrules on these handles are flimsy and more decorative than functional. It's unlikely they would hold the wood together were I to drive the tangs all the way in with a hammer.
 
@@ -19,7 +21,7 @@ Another option would be to heat up the tangs and drive them in hot, charring and
 
 So I went with epoxy. I've enlarged the holes for a loose fit, mixed some epoxy, and glued the files in. Of course, I underestimated the amount of epoxy needed and had to mix another batch. At least I got the proportions right, as after a night next to the heater the epoxy is fully cured.
 
-!["Close-up"](/images/2022-12-29-file-handles/closeup.jpg)
+{{ article_image("/images/2022-12-29-file-handles/closeup.jpg", "Close-up") }}
 
 ***
 

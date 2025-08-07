@@ -3,13 +3,15 @@ title: Making a Miter Square
 title_image: /images/2024-03-07-miter-square/miter-square.jpg
 ---
 
+{% from 'img.html' import article_image %}
+
 It is common knowledge that a combination square can replace a bunch of conventional tools, including the miter square. Why, then, am I making my own miter square from brass, walnut, and an old saw plate?
 
 <!--more-->
 
 I prepared a piece of walnut heartwood, some 5mm brass rod, 2.5mm brass plate and a piece of old saw.
 
-!["Materials"](/images/2024-03-07-miter-square/materials.jpg)
+{{ article_image("/images/2024-03-07-miter-square/materials.jpg", "Materials") }}
 
 This time, I decided to start by creating a mockup from foamcore to gauge proportions and size. Concerning size, the edges of the beam marked in green determine the maximum board width this square can handle. However, in this case, the beam length was limited by the size of the saw plate material.
 
@@ -17,19 +19,19 @@ The width of the stock and the beam has no effect other than aesthetics. Initial
 
 For symmetry and visual balance, I opted to match the length of the edge of the stock marked in green with that of the beam marked in green. That worked out well.
 
-!["Mockup/prototype"](/images/2024-03-07-miter-square/mockup.jpg)
+{{ article_image("/images/2024-03-07-miter-square/mockup.jpg", "Mockup/prototype") }}
 
 With the prototype made, I proceeded to cut the pieces to rough size.
 
 Squaring and surfacing the wood was easy in comparison to cutting all the metal, especially the saw plate. I tried cutting it with a hacksaw at first and gave up quickly. Fortunately, I was able to use a tiny table saw with a thin abrasive cutoff disc to produce a strip of consistent width. Consistent to within 1mm, I should add, because I had to grind it to the final shape by hand. I tried to cut brass with the same abrasive disc, but the disc flexed and the cut wandered off. Not surprising in hindsight, as the steel plate was 1mm thick versus the 2.5mm thickness of brass. So, hacksaw for brass, cutoff disc for steel.
 
-!["Everything is rough cut to size"](/images/2024-03-07-miter-square/rough-cut.jpg)
+{{ article_image("/images/2024-03-07-miter-square/rough-cut.jpg", "Everything is rough cut to size") }}
 
 In traditional square construction, metal pieces are affixed to the wooden stock using pins and possibly screws. However, this method requires tighter tolerances and better tools than what I have at my disposal. Thankfully, this day and age offers excellent epoxy glues. I opted for the five-minute variety because its quick curing time makes it easier to hold everything in alignment until the glue sets.
 
 Before the glueup, I applied masking tape to the surfaces that should remain clean. This proved effective. Afterward, I removed the tape and any excess glue while the glue was still soft. It fully hardens within 24 hours, so the following day, I filed down any excess brass and then sanded everything flush and square.
 
-!["Masking and glueup"](/images/2024-03-07-miter-square/glueup.jpg)
+{{ article_image("/images/2024-03-07-miter-square/glueup.jpg", "Masking and glueup") }}
 
 I have glued a strip of fabric-backed abrasive to a piece of particle board, and that became my grinding surface. With this simple tool I was able to get one of the edges of the beam flat. I held the flat edge against a metal ruler and there were no visible gaps. With one edge ground flat, I could grind the other edge to be flat and parallel to the first edge. Making it flat was not difficult; I simply rubbed it back and forth on the abrasive surface. To ensure parallelism, I regularly checked the width of the strip and applied more pressure where material needed to be removed.
 
@@ -41,7 +43,7 @@ At this point, the square was perfectly usable and as accurate as I could make i
 
 I peened the brass pins, sanded everything flush one more time, and applied some finish. For the finish, I chose Danish oil. I tried waxing the square afterwards, but that almost ruined it. The white carnauba wax seeped into the pores, and since the buffing action does not reach so deep, it remained white. On a dark wood, this is pretty ugly. Fortunately, I was able to wash out the wax using solvents, and then applied several thin layers of diluted varnish.
 
-!["Final product"](/images/2024-03-07-miter-square/miter-square.jpg)
+{{ article_image("/images/2024-03-07-miter-square/miter-square.jpg", "Final product") }}
 
 ***
 

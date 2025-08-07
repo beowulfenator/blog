@@ -3,6 +3,8 @@ title: Painting Planes
 title_image: /images/2022-06-12-painting-planes/painted.jpg
 ---
 
+{% from 'img.html' import article_image %}
+
 When I get my hands on old tools, I generally try to repaint them. I like the consistent look. There's nothing unusual or fancy about painting your hand planes black, but I like how matte black contrasts with wood shavings and polished metal. Besides, what better way to learn the tools than to fully disassemble them and then put them back together?
 
 <!--more-->
@@ -11,7 +13,7 @@ When I get my hands on old tools, I generally try to repaint them. I like the co
 
 Whenever possible, I go for the full disassembly. Some parts are riveted on, so I have to take out the rivets. Generally,	 there are rivets in lever caps of block planes and in lateral adjustment levers on frogs of bench planes.
 
-!["Masking the surfaces"](/images/2022-06-12-painting-planes/masking-tape.jpg)
+{{ article_image("/images/2022-06-12-painting-planes/masking-tape.jpg", "Masking the surfaces") }}
 
 Whenever old screws are stuck, I use WD-40 and heat. Heat can damage the paint, but it does not matter as the surfaces will get repainted anyway.
 
@@ -25,7 +27,7 @@ All threaded holes are plugged with rolls of masking tape to avoid filling them 
 
 I am very particular in regards to which surfaces must be covered with paint and which must be left bare.
 
-!["The rims - new and old"](/images/2022-06-12-painting-planes/rims.jpg)
+{{ article_image("/images/2022-06-12-painting-planes/rims.jpg", "The rims - new and old") }}
 
 On the left is a modern Axminster low-angle jack plane, and on the right is a restored Stanley #5. It is obviously easier to just paint the rims as they do it now, but I really like the contrasting look of the original Stanley. It's hard to mask the rims effectively, but to me, it is worth the effort.
 
@@ -41,12 +43,12 @@ I don't have tons of things to paint, nor a painting booth, so my paints come in
 
 The next day after painting, once the last coat is dry but not fully hardened, I use sandpaper to remove the paint that may have seeped under the mask. My masking tape does not stick too well to the rims, and even if it does, the degreaser may cause it to peel off a little bit. So there are places where excess paint needs to be removed.
 
-!["Excess paint"](/images/2022-06-12-painting-planes/spills.jpg)
+{{ article_image("/images/2022-06-12-painting-planes/spills.jpg", "Excess paint") }}
 
 Thankfully, both the primer and the paint are black. That is why sanding works so well. Were the primer gray or white, it would have been visible where the paint ends and the bare metal begins. I use some fine sandpaper, and once I'm happy with the look, I set the parts aside for a week or two for the paint to fully cure and harden.
 
 ---
 
-!["Planes painted and sanded"](/images/2022-06-12-painting-planes/painted.jpg)
+{{ article_image("/images/2022-06-12-painting-planes/painted.jpg", "Planes painted and sanded") }}
 
 Who am I kidding? I have no patience to just shelve everything for two weeks! Of course, I try to put the tool together the next day, and of course, I nick the paint, and of course, I am not in the least ashamed of it.

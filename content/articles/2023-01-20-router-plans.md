@@ -3,15 +3,17 @@ title: Router Plane Plans
 title_image: /images/2023-01-20-router-plans/materials.jpg
 ---
 
+{% from 'img.html' import article_image %}
+
 With vintage cast iron router planes becoming rare and almost as expensive as their modern reproductions, shop-made is the way to go. There are different designs of router planes out there, but I've settled on this one because it allows easy blade adjustment. It does not hurt that it falls within my range of skills and tools as well.
 
 <!--more-->
 
-!["The original plans"](/images/2023-01-20-router-plans/plans.jpg)
+{{ article_image("/images/2023-01-20-router-plans/plans.jpg", "The original plans") }}
 
 I'm working off [this design](https://paulsellers.com/router-plane-drawings/), which is free if you register. I am going to make some changes to it to suit my materials and available hardware.
 
-!["Boards and hardware"](/images/2023-01-20-router-plans/materials.jpg)
+{{ article_image("/images/2023-01-20-router-plans/materials.jpg", "Boards and hardware") }}
 
 First of all, I have a board of sweet cherry (_Prunus avium_) that, after planing, is 29 mm thick. The original design calls for thinner material, but I see no point. If anything, the extra thickness will allow me to make the shape more organic. I am making the boards slightly longer and wider as well.
 

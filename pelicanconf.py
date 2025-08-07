@@ -37,6 +37,22 @@ PAGE_PATHS = ["pages"]
 ARTICLE_PATHS = ["articles"]
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['summary']
+PLUGINS = [
+    'summary',
+    'pelican.plugins.image_process',
+    'pelican.plugins.jinja2content',
+]
 
 SUMMARY_END_MARKER = '<!--more-->'
+
+IMAGE_PROCESS = {
+    "article-image": {'type': 'responsive-image',
+    'sizes': '(min-width: 1200px) 800px, (min-width: 992px) 650px, \
+              (min-width: 768px) 718px, 100vw',
+    'srcset': [('600w', ["scale_in 600 450 True"]),
+               ('800w', ["scale_in 800 600 True"]),
+               ('1600w', ["scale_in 1600 1200 True"]),
+               ],
+    'default': '800w',
+    },
+}

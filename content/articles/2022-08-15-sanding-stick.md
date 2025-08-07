@@ -3,27 +3,29 @@ title: Sanding Stick
 title_image: /images/2022-08-15-sanding-stick/sanding-stick.jpg
 ---
 
+{% from 'img.html' import article_image %}
+
 This is mainly a practice piece. I needed a padded sanding stick to make totes, so I quickly put one together from a thin strip of maple I had. This is my attempt to refine the design and make it prettier.
 
 <!--more-->
 
 Since I have no workbench and no vice, I had to somehow attach the thin strip of maple to the table to plane it smooth (and flat). Painter's tape and superglue to the rescue! I don't claim I've invented this trick, but now I know it works really well!
 
-!["Holding strips with superglue"](/images/2022-08-15-sanding-stick/superglue-holding.jpg)
+{{ article_image("/images/2022-08-15-sanding-stick/superglue-holding.jpg", "Holding strips with superglue") }}
 
 The stick is just a strip of maple sandwiched together between two strips of apple. I've planed the stips smooth and glued everything together with wood glue.
 
-!["Handle glueup"](/images/2022-08-15-sanding-stick/glueup.jpg)
+{{ article_image("/images/2022-08-15-sanding-stick/glueup.jpg", "Handle glueup") }}
 
 The handle was shaped with a very coarse rasp, then smoothed with a file and some sandpaper. I did not bother removing all the rasp marks, as this is a practice piece after all.
 
-!["Shaping the handle"](/images/2022-08-15-sanding-stick/shaping.jpg)
+{{ article_image("/images/2022-08-15-sanding-stick/shaping.jpg", "Shaping the handle") }}
 
 I then glued the foam to the stick using some rubber glue, also known as contact cement. I've never had much success with this kind of glue in the past, but this time all went surprisingly well. Whether it was good glue, better procedure, or just beginner's luck, we'll never know.
 
 Wrap some sandpaper around the foam, secure it with tape, and we're good to go!
 
-!["Adding the foam"](/images/2022-08-15-sanding-stick/foam.jpg)
+{{ article_image("/images/2022-08-15-sanding-stick/foam.jpg", "Adding the foam") }}
 
 ### Lessons learned
 

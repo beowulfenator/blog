@@ -19,7 +19,7 @@
                     </span>
                 {% endif %}
                 {% if article.title_image %}
-                <img src="{{ article.title_image }}" alt="{{ article.title }}" />
+                <a class="read-more" href="{{ article.url }}"><img class="image-process-article-image" src="{{ article.title_image }}" alt="{{ article.title }}" /></a>
                 {% endif %}
                 <p>
                     {{ article.summary }}
