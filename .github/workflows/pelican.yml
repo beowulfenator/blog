@@ -12,4 +12,4 @@ jobs:
       id-token: write
     with:
       settings: "publishconf.py"
-      requirements: "pelican[markdown] pelican.plugins.image_process pelican.plugins.jinja2content"
+      requirements: "-r requirements.txt"
