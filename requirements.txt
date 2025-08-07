@@ -1,1 +1,4 @@
-beautifulsoup4=4.13.4
+beautifulsoup4==4.13.4
+Markdown==3.8.2
+pelican-image-process==3.1.0
+pip install pelican-jinja2content==1.0.1
